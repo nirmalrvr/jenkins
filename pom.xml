@@ -8,6 +8,7 @@
     <packaging>war</packaging>
    <version>1.0.0</version>
          
+  <build>
    <plugin>
     <artifactId>maven-war-plugin</artifactId>
     <configuration>
@@ -21,4 +22,6 @@
         </webResources>
     </configuration>
 </plugin>
+</build>
+
 </project>
