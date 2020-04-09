@@ -12,9 +12,6 @@
 			<directory>./src/</directory>
 			<useDefaultExcludes>true</useDefaultExcludes>
 			<outputDirectory>./</outputDirectory>
-			<includes>
-				<include>generic-bastion.json</include>
-			</includes>
 		</fileSet>
 	</fileSets>
 </assembly>
