@@ -12,6 +12,9 @@
 			<directory>./cf/</directory>
 			<useDefaultExcludes>true</useDefaultExcludes>
 			<outputDirectory>./</outputDirectory>
+			<includes>
+				<include>*.json</include>
+			</includes>
 		</fileSet>
 	</fileSets>
 </assembly>
