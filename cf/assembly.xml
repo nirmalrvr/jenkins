@@ -13,7 +13,7 @@
 			<useDefaultExcludes>true</useDefaultExcludes>
 			<outputDirectory>./</outputDirectory>
 			<includes>
-				<include>*.json</include>
+				<include>generic-bastion.json</include>
 			</includes>
 		</fileSet>
 	</fileSets>
